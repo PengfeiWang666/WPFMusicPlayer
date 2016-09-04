@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>image</key>
+		<string>徐歌阳.jpg</string>
+		<key>lrc</key>
+		<string>徐歌阳 - 一万次悲伤 (Live).lrc</string>
+		<key>mp3</key>
+		<string>徐歌阳 - 一万次悲伤 (Live).mp3</string>
+		<key>name</key>
+		<string>一万次悲伤 (Live)</string>
+		<key>singer</key>
+		<string>徐歌阳</string>
+		<key>album</key>
+		<string>中国新歌声</string>
+		<key>type</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>曾敏杰.png</string>
+		<key>lrc</key>
+		<string>曾敏杰 - 伤痕 (Live).lrc</string>
+		<key>mp3</key>
+		<string>曾敏杰 - 伤痕 (Live).mp3</string>
+		<key>name</key>
+		<string>伤痕 (Live)</string>
+		<key>singer</key>
+		<string>曾敏杰</string>
+		<key>album</key>
+		<string>中国新歌声</string>
+		<key>type</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>徐歌阳1.jpg</string>
+		<key>lrc</key>
+		<string>徐歌阳 - 追梦赤子心 (Live).lrc</string>
+		<key>mp3</key>
+		<string>徐歌阳 - 追梦赤子心 (Live).mp3</string>
+		<key>name</key>
+		<string>追梦赤子心 (Live)</string>
+		<key>singer</key>
+		<string>徐歌阳</string>
+		<key>album</key>
+		<string>中国新歌声</string>
+		<key>type</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>包师语.png</string>
+		<key>lrc</key>
+		<string>包师语 - 彩虹 (Live).lrc</string>
+		<key>mp3</key>
+		<string>包师语 - 彩虹 (Live).mp3</string>
+		<key>name</key>
+		<string>彩虹 (Live)</string>
+		<key>singer</key>
+		<string>包师语</string>
+		<key>album</key>
+		<string>中国新歌声</string>
+		<key>type</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>eason.jpg</string>
+		<key>lrc</key>
+		<string>陈奕迅 - 陪你度过漫长岁月 (国语).lrc</string>
+		<key>mp3</key>
+		<string>陈奕迅 - 陪你度过漫长岁月 (国语).mp3</string>
+		<key>name</key>
+		<string>陪你度过漫长岁月 (国语)</string>
+		<key>singer</key>
+		<string>陈奕迅</string>
+		<key>album</key>
+		<string>陪你度过漫长岁月</string>
+		<key>type</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>朴翔.jpg</string>
+		<key>lrc</key>
+		<string>朴翔 - 把悲伤留给自己 (Live).lrc</string>
+		<key>mp3</key>
+		<string>朴翔 - 把悲伤留给自己 (Live).mp3</string>
+		<key>name</key>
+		<string>把悲伤留给自己 (Live)</string>
+		<key>singer</key>
+		<string>朴翔</string>
+		<key>album</key>
+		<string>中国新歌声</string>
+		<key>type</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>安河桥北.jpg</string>
+		<key>lrc</key>
+		<string>宋冬野 - 安河桥.lrc</string>
+		<key>mp3</key>
+		<string>宋冬野 - 安河桥.mp3</string>
+		<key>name</key>
+		<string>安河桥</string>
+		<key>singer</key>
+		<string>宋冬野</string>
+		<key>album</key>
+		<string>安河桥北</string>
+		<key>type</key>
+		<integer>2</integer>
+	</dict>
+</array>
+</plist>

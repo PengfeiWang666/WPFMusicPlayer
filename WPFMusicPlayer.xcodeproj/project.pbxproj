@@ -1,0 +1,791 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0F725C581D729B8800732BEB /* 徐歌阳 - 一万次悲伤 (Live).lrc in Resources */ = {isa = PBXBuildFile; fileRef = 0F725C561D729B8800732BEB /* 徐歌阳 - 一万次悲伤 (Live).lrc */; };
+		0F725C591D729B8800732BEB /* 徐歌阳 - 一万次悲伤 (Live).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0F725C571D729B8800732BEB /* 徐歌阳 - 一万次悲伤 (Live).mp3 */; };
+		0F725C5B1D729BBB00732BEB /* 徐歌阳.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0F725C5A1D729BBB00732BEB /* 徐歌阳.jpg */; };
+		0F725C5E1D729D4B00732BEB /* 曾敏杰 - 伤痕 (Live).lrc in Resources */ = {isa = PBXBuildFile; fileRef = 0F725C5C1D729D4B00732BEB /* 曾敏杰 - 伤痕 (Live).lrc */; };
+		0F725C5F1D729D4B00732BEB /* 曾敏杰 - 伤痕 (Live).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0F725C5D1D729D4B00732BEB /* 曾敏杰 - 伤痕 (Live).mp3 */; };
+		0F725C611D72A6D200732BEB /* 曾敏杰.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F725C601D72A6D200732BEB /* 曾敏杰.png */; };
+		0F725C631D72AABC00732BEB /* 徐歌阳1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0F725C621D72AABC00732BEB /* 徐歌阳1.jpg */; };
+		0F725C661D72AAE300732BEB /* 徐歌阳 - 追梦赤子心 (Live).lrc in Resources */ = {isa = PBXBuildFile; fileRef = 0F725C641D72AAE300732BEB /* 徐歌阳 - 追梦赤子心 (Live).lrc */; };
+		0F725C671D72AAE300732BEB /* 徐歌阳 - 追梦赤子心 (Live).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0F725C651D72AAE300732BEB /* 徐歌阳 - 追梦赤子心 (Live).mp3 */; };
+		0F725C691D72AC2F00732BEB /* 包师语.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F725C681D72AC2F00732BEB /* 包师语.png */; };
+		0F725C6C1D72AC3D00732BEB /* 包师语 - 彩虹 (Live).lrc in Resources */ = {isa = PBXBuildFile; fileRef = 0F725C6A1D72AC3D00732BEB /* 包师语 - 彩虹 (Live).lrc */; };
+		0F725C6D1D72AC3D00732BEB /* 包师语 - 彩虹 (Live).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0F725C6B1D72AC3D00732BEB /* 包师语 - 彩虹 (Live).mp3 */; };
+		0F725C741D72AD1E00732BEB /* 陈奕迅 - 陪你度过漫长岁月 (国语).lrc in Resources */ = {isa = PBXBuildFile; fileRef = 0F725C6E1D72AD1E00732BEB /* 陈奕迅 - 陪你度过漫长岁月 (国语).lrc */; };
+		0F725C751D72AD1E00732BEB /* 陈奕迅 - 陪你度过漫长岁月 (国语).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0F725C6F1D72AD1E00732BEB /* 陈奕迅 - 陪你度过漫长岁月 (国语).mp3 */; };
+		0F725C761D72AD1E00732BEB /* 朴翔 - 把悲伤留给自己 (Live).lrc in Resources */ = {isa = PBXBuildFile; fileRef = 0F725C701D72AD1E00732BEB /* 朴翔 - 把悲伤留给自己 (Live).lrc */; };
+		0F725C771D72AD1E00732BEB /* 朴翔 - 把悲伤留给自己 (Live).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0F725C711D72AD1E00732BEB /* 朴翔 - 把悲伤留给自己 (Live).mp3 */; };
+		0F725C781D72AD1E00732BEB /* 宋冬野 - 安河桥.lrc in Resources */ = {isa = PBXBuildFile; fileRef = 0F725C721D72AD1E00732BEB /* 宋冬野 - 安河桥.lrc */; };
+		0F725C791D72AD1E00732BEB /* 宋冬野 - 安河桥.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0F725C731D72AD1E00732BEB /* 宋冬野 - 安河桥.mp3 */; };
+		0F725C7B1D72ADFA00732BEB /* eason.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0F725C7A1D72ADFA00732BEB /* eason.jpg */; };
+		0F725C7D1D72AF7600732BEB /* 安河桥北.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0F725C7C1D72AF7600732BEB /* 安河桥北.jpg */; };
+		0F725C7F1D72AF7F00732BEB /* 朴翔.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0F725C7E1D72AF7F00732BEB /* 朴翔.jpg */; };
+		182690E61C416D880042A36E /* MJExtensionConst.m in Sources */ = {isa = PBXBuildFile; fileRef = 182690D31C416D880042A36E /* MJExtensionConst.m */; };
+		182690E71C416D880042A36E /* MJFoundation.m in Sources */ = {isa = PBXBuildFile; fileRef = 182690D51C416D880042A36E /* MJFoundation.m */; };
+		182690E81C416D880042A36E /* MJProperty.m in Sources */ = {isa = PBXBuildFile; fileRef = 182690D71C416D880042A36E /* MJProperty.m */; };
+		182690E91C416D880042A36E /* MJPropertyKey.m in Sources */ = {isa = PBXBuildFile; fileRef = 182690D91C416D880042A36E /* MJPropertyKey.m */; };
+		182690EA1C416D880042A36E /* MJPropertyType.m in Sources */ = {isa = PBXBuildFile; fileRef = 182690DB1C416D880042A36E /* MJPropertyType.m */; };
+		182690EB1C416D880042A36E /* NSObject+MJClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 182690DD1C416D880042A36E /* NSObject+MJClass.m */; };
+		182690EC1C416D880042A36E /* NSObject+MJCoding.m in Sources */ = {isa = PBXBuildFile; fileRef = 182690DF1C416D880042A36E /* NSObject+MJCoding.m */; };
+		182690ED1C416D880042A36E /* NSObject+MJKeyValue.m in Sources */ = {isa = PBXBuildFile; fileRef = 182690E11C416D880042A36E /* NSObject+MJKeyValue.m */; };
+		182690EE1C416D880042A36E /* NSObject+MJProperty.m in Sources */ = {isa = PBXBuildFile; fileRef = 182690E31C416D880042A36E /* NSObject+MJProperty.m */; };
+		182690EF1C416D880042A36E /* NSString+MJExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 182690E51C416D880042A36E /* NSString+MJExtension.m */; };
+		182690F21C416E130042A36E /* WPFMusic.m in Sources */ = {isa = PBXBuildFile; fileRef = 182690F11C416E130042A36E /* WPFMusic.m */; };
+		182690F51C416FA70042A36E /* WPFPlayManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 182690F41C416FA70042A36E /* WPFPlayManager.m */; };
+		182690F91C417C580042A36E /* WPFTimeTool.m in Sources */ = {isa = PBXBuildFile; fileRef = 182690F81C417C580042A36E /* WPFTimeTool.m */; };
+		182690FC1C4254A90042A36E /* WPFLyricParser.m in Sources */ = {isa = PBXBuildFile; fileRef = 182690FB1C4254A90042A36E /* WPFLyricParser.m */; };
+		182690FF1C426CBA0042A36E /* WPFLyric.m in Sources */ = {isa = PBXBuildFile; fileRef = 182690FE1C426CBA0042A36E /* WPFLyric.m */; };
+		182691021C426E160042A36E /* NSDateFormatter+shared.m in Sources */ = {isa = PBXBuildFile; fileRef = 182691011C426E160042A36E /* NSDateFormatter+shared.m */; };
+		182691051C427CD70042A36E /* WPFColorLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 182691041C427CD70042A36E /* WPFColorLabel.m */; };
+		182691081C4288CF0042A36E /* WPFLyricView.m in Sources */ = {isa = PBXBuildFile; fileRef = 182691071C4288CF0042A36E /* WPFLyricView.m */; };
+		1826910B1C434F120042A36E /* WPFSliderView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1826910A1C434F120042A36E /* WPFSliderView.m */; };
+		18ACD0271C8B28F700A07172 /* buyao.wav in Resources */ = {isa = PBXBuildFile; fileRef = 18ACD0121C8B28F700A07172 /* buyao.wav */; };
+		18ACD0281C8B28F700A07172 /* chatcome.wav in Resources */ = {isa = PBXBuildFile; fileRef = 18ACD0131C8B28F700A07172 /* chatcome.wav */; };
+		18ACD0311C8B28F700A07172 /* test.wav in Resources */ = {isa = PBXBuildFile; fileRef = 18ACD01C1C8B28F700A07172 /* test.wav */; };
+		18B5B6C81C40F9C600B60EE9 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 18B5B6C71C40F9C600B60EE9 /* main.m */; };
+		18B5B6CB1C40F9C600B60EE9 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 18B5B6CA1C40F9C600B60EE9 /* AppDelegate.m */; };
+		18B5B6CE1C40F9C600B60EE9 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 18B5B6CD1C40F9C600B60EE9 /* ViewController.m */; };
+		18B5B6D11C40F9C600B60EE9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18B5B6CF1C40F9C600B60EE9 /* Main.storyboard */; };
+		18B5B6D31C40F9C600B60EE9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18B5B6D21C40F9C600B60EE9 /* Assets.xcassets */; };
+		18B5B6D61C40F9C600B60EE9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18B5B6D41C40F9C600B60EE9 /* LaunchScreen.storyboard */; };
+		18B5B6E11C40F9C600B60EE9 /* WPFMusicPlayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 18B5B6E01C40F9C600B60EE9 /* WPFMusicPlayer.m */; };
+		18B5B7171C410F0100B60EE9 /* mlist.plist in Resources */ = {isa = PBXBuildFile; fileRef = 18B5B7161C410F0100B60EE9 /* mlist.plist */; };
+		18B5B7331C41672600B60EE9 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 18B5B7191C41672600B60EE9 /* Info.plist */; };
+		18B5B7341C41672600B60EE9 /* MASCompositeConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = 18B5B71B1C41672600B60EE9 /* MASCompositeConstraint.m */; };
+		18B5B7351C41672600B60EE9 /* MASConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = 18B5B71E1C41672600B60EE9 /* MASConstraint.m */; };
+		18B5B7361C41672600B60EE9 /* MASConstraintMaker.m in Sources */ = {isa = PBXBuildFile; fileRef = 18B5B7201C41672600B60EE9 /* MASConstraintMaker.m */; };
+		18B5B7371C41672600B60EE9 /* MASLayoutConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = 18B5B7221C41672600B60EE9 /* MASLayoutConstraint.m */; };
+		18B5B7381C41672600B60EE9 /* MASViewAttribute.m in Sources */ = {isa = PBXBuildFile; fileRef = 18B5B7261C41672600B60EE9 /* MASViewAttribute.m */; };
+		18B5B7391C41672600B60EE9 /* MASViewConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = 18B5B7281C41672600B60EE9 /* MASViewConstraint.m */; };
+		18B5B73A1C41672600B60EE9 /* NSArray+MASAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 18B5B72A1C41672600B60EE9 /* NSArray+MASAdditions.m */; };
+		18B5B73B1C41672600B60EE9 /* NSLayoutConstraint+MASDebugAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 18B5B72D1C41672600B60EE9 /* NSLayoutConstraint+MASDebugAdditions.m */; };
+		18B5B73C1C41672600B60EE9 /* View+MASAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 18B5B72F1C41672600B60EE9 /* View+MASAdditions.m */; };
+		18B5B73D1C41672600B60EE9 /* ViewController+MASAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 18B5B7321C41672600B60EE9 /* ViewController+MASAdditions.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		18B5B6DD1C40F9C600B60EE9 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 18B5B6BB1C40F9C600B60EE9 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 18B5B6C21C40F9C600B60EE9;
+			remoteInfo = "04-黑马音乐播放器";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		0F725C561D729B8800732BEB /* 徐歌阳 - 一万次悲伤 (Live).lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "徐歌阳 - 一万次悲伤 (Live).lrc"; sourceTree = "<group>"; };
+		0F725C571D729B8800732BEB /* 徐歌阳 - 一万次悲伤 (Live).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "徐歌阳 - 一万次悲伤 (Live).mp3"; sourceTree = "<group>"; };
+		0F725C5A1D729BBB00732BEB /* 徐歌阳.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "徐歌阳.jpg"; sourceTree = "<group>"; };
+		0F725C5C1D729D4B00732BEB /* 曾敏杰 - 伤痕 (Live).lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "曾敏杰 - 伤痕 (Live).lrc"; sourceTree = "<group>"; };
+		0F725C5D1D729D4B00732BEB /* 曾敏杰 - 伤痕 (Live).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "曾敏杰 - 伤痕 (Live).mp3"; sourceTree = "<group>"; };
+		0F725C601D72A6D200732BEB /* 曾敏杰.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "曾敏杰.png"; sourceTree = "<group>"; };
+		0F725C621D72AABC00732BEB /* 徐歌阳1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "徐歌阳1.jpg"; sourceTree = "<group>"; };
+		0F725C641D72AAE300732BEB /* 徐歌阳 - 追梦赤子心 (Live).lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "徐歌阳 - 追梦赤子心 (Live).lrc"; sourceTree = "<group>"; };
+		0F725C651D72AAE300732BEB /* 徐歌阳 - 追梦赤子心 (Live).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "徐歌阳 - 追梦赤子心 (Live).mp3"; sourceTree = "<group>"; };
+		0F725C681D72AC2F00732BEB /* 包师语.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "包师语.png"; sourceTree = "<group>"; };
+		0F725C6A1D72AC3D00732BEB /* 包师语 - 彩虹 (Live).lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "包师语 - 彩虹 (Live).lrc"; sourceTree = "<group>"; };
+		0F725C6B1D72AC3D00732BEB /* 包师语 - 彩虹 (Live).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "包师语 - 彩虹 (Live).mp3"; sourceTree = "<group>"; };
+		0F725C6E1D72AD1E00732BEB /* 陈奕迅 - 陪你度过漫长岁月 (国语).lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "陈奕迅 - 陪你度过漫长岁月 (国语).lrc"; sourceTree = "<group>"; };
+		0F725C6F1D72AD1E00732BEB /* 陈奕迅 - 陪你度过漫长岁月 (国语).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "陈奕迅 - 陪你度过漫长岁月 (国语).mp3"; sourceTree = "<group>"; };
+		0F725C701D72AD1E00732BEB /* 朴翔 - 把悲伤留给自己 (Live).lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "朴翔 - 把悲伤留给自己 (Live).lrc"; sourceTree = "<group>"; };
+		0F725C711D72AD1E00732BEB /* 朴翔 - 把悲伤留给自己 (Live).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "朴翔 - 把悲伤留给自己 (Live).mp3"; sourceTree = "<group>"; };
+		0F725C721D72AD1E00732BEB /* 宋冬野 - 安河桥.lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "宋冬野 - 安河桥.lrc"; sourceTree = "<group>"; };
+		0F725C731D72AD1E00732BEB /* 宋冬野 - 安河桥.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "宋冬野 - 安河桥.mp3"; sourceTree = "<group>"; };
+		0F725C7A1D72ADFA00732BEB /* eason.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = eason.jpg; sourceTree = "<group>"; };
+		0F725C7C1D72AF7600732BEB /* 安河桥北.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "安河桥北.jpg"; sourceTree = "<group>"; };
+		0F725C7E1D72AF7F00732BEB /* 朴翔.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "朴翔.jpg"; sourceTree = "<group>"; };
+		182690D11C416D880042A36E /* MJExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MJExtension.h; sourceTree = "<group>"; };
+		182690D21C416D880042A36E /* MJExtensionConst.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MJExtensionConst.h; sourceTree = "<group>"; };
+		182690D31C416D880042A36E /* MJExtensionConst.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MJExtensionConst.m; sourceTree = "<group>"; };
+		182690D41C416D880042A36E /* MJFoundation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MJFoundation.h; sourceTree = "<group>"; };
+		182690D51C416D880042A36E /* MJFoundation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MJFoundation.m; sourceTree = "<group>"; };
+		182690D61C416D880042A36E /* MJProperty.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MJProperty.h; sourceTree = "<group>"; };
+		182690D71C416D880042A36E /* MJProperty.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MJProperty.m; sourceTree = "<group>"; };
+		182690D81C416D880042A36E /* MJPropertyKey.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MJPropertyKey.h; sourceTree = "<group>"; };
+		182690D91C416D880042A36E /* MJPropertyKey.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MJPropertyKey.m; sourceTree = "<group>"; };
+		182690DA1C416D880042A36E /* MJPropertyType.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MJPropertyType.h; sourceTree = "<group>"; };
+		182690DB1C416D880042A36E /* MJPropertyType.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MJPropertyType.m; sourceTree = "<group>"; };
+		182690DC1C416D880042A36E /* NSObject+MJClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+MJClass.h"; sourceTree = "<group>"; };
+		182690DD1C416D880042A36E /* NSObject+MJClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+MJClass.m"; sourceTree = "<group>"; };
+		182690DE1C416D880042A36E /* NSObject+MJCoding.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+MJCoding.h"; sourceTree = "<group>"; };
+		182690DF1C416D880042A36E /* NSObject+MJCoding.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+MJCoding.m"; sourceTree = "<group>"; };
+		182690E01C416D880042A36E /* NSObject+MJKeyValue.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+MJKeyValue.h"; sourceTree = "<group>"; };
+		182690E11C416D880042A36E /* NSObject+MJKeyValue.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+MJKeyValue.m"; sourceTree = "<group>"; };
+		182690E21C416D880042A36E /* NSObject+MJProperty.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+MJProperty.h"; sourceTree = "<group>"; };
+		182690E31C416D880042A36E /* NSObject+MJProperty.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+MJProperty.m"; sourceTree = "<group>"; };
+		182690E41C416D880042A36E /* NSString+MJExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+MJExtension.h"; sourceTree = "<group>"; };
+		182690E51C416D880042A36E /* NSString+MJExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+MJExtension.m"; sourceTree = "<group>"; };
+		182690F01C416E130042A36E /* WPFMusic.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WPFMusic.h; sourceTree = "<group>"; };
+		182690F11C416E130042A36E /* WPFMusic.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WPFMusic.m; sourceTree = "<group>"; };
+		182690F31C416FA70042A36E /* WPFPlayManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WPFPlayManager.h; sourceTree = "<group>"; };
+		182690F41C416FA70042A36E /* WPFPlayManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WPFPlayManager.m; sourceTree = "<group>"; };
+		182690F71C417C580042A36E /* WPFTimeTool.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WPFTimeTool.h; sourceTree = "<group>"; };
+		182690F81C417C580042A36E /* WPFTimeTool.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WPFTimeTool.m; sourceTree = "<group>"; };
+		182690FA1C4254A90042A36E /* WPFLyricParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WPFLyricParser.h; sourceTree = "<group>"; };
+		182690FB1C4254A90042A36E /* WPFLyricParser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WPFLyricParser.m; sourceTree = "<group>"; };
+		182690FD1C426CBA0042A36E /* WPFLyric.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WPFLyric.h; sourceTree = "<group>"; };
+		182690FE1C426CBA0042A36E /* WPFLyric.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WPFLyric.m; sourceTree = "<group>"; };
+		182691001C426E160042A36E /* NSDateFormatter+shared.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSDateFormatter+shared.h"; sourceTree = "<group>"; };
+		182691011C426E160042A36E /* NSDateFormatter+shared.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSDateFormatter+shared.m"; sourceTree = "<group>"; };
+		182691031C427CD70042A36E /* WPFColorLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WPFColorLabel.h; sourceTree = "<group>"; };
+		182691041C427CD70042A36E /* WPFColorLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WPFColorLabel.m; sourceTree = "<group>"; };
+		182691061C4288CF0042A36E /* WPFLyricView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WPFLyricView.h; sourceTree = "<group>"; };
+		182691071C4288CF0042A36E /* WPFLyricView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WPFLyricView.m; sourceTree = "<group>"; };
+		182691091C434F120042A36E /* WPFSliderView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WPFSliderView.h; sourceTree = "<group>"; };
+		1826910A1C434F120042A36E /* WPFSliderView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WPFSliderView.m; sourceTree = "<group>"; };
+		18ACD0121C8B28F700A07172 /* buyao.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = buyao.wav; sourceTree = "<group>"; };
+		18ACD0131C8B28F700A07172 /* chatcome.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = chatcome.wav; sourceTree = "<group>"; };
+		18ACD01C1C8B28F700A07172 /* test.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = test.wav; sourceTree = "<group>"; };
+		18B5B6C31C40F9C600B60EE9 /* WPFMusicPlayer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WPFMusicPlayer.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		18B5B6C71C40F9C600B60EE9 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		18B5B6C91C40F9C600B60EE9 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		18B5B6CA1C40F9C600B60EE9 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		18B5B6CC1C40F9C600B60EE9 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		18B5B6CD1C40F9C600B60EE9 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		18B5B6D01C40F9C600B60EE9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		18B5B6D21C40F9C600B60EE9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		18B5B6D51C40F9C600B60EE9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		18B5B6D71C40F9C600B60EE9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18B5B6DC1C40F9C600B60EE9 /* WPFMusicPlayer.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WPFMusicPlayer.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		18B5B6E01C40F9C600B60EE9 /* WPFMusicPlayer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WPFMusicPlayer.m; sourceTree = "<group>"; };
+		18B5B6E21C40F9C600B60EE9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18B5B7161C410F0100B60EE9 /* mlist.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = mlist.plist; sourceTree = "<group>"; };
+		18B5B7191C41672600B60EE9 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18B5B71A1C41672600B60EE9 /* MASCompositeConstraint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MASCompositeConstraint.h; sourceTree = "<group>"; };
+		18B5B71B1C41672600B60EE9 /* MASCompositeConstraint.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MASCompositeConstraint.m; sourceTree = "<group>"; };
+		18B5B71C1C41672600B60EE9 /* MASConstraint+Private.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "MASConstraint+Private.h"; sourceTree = "<group>"; };
+		18B5B71D1C41672600B60EE9 /* MASConstraint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MASConstraint.h; sourceTree = "<group>"; };
+		18B5B71E1C41672600B60EE9 /* MASConstraint.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MASConstraint.m; sourceTree = "<group>"; };
+		18B5B71F1C41672600B60EE9 /* MASConstraintMaker.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MASConstraintMaker.h; sourceTree = "<group>"; };
+		18B5B7201C41672600B60EE9 /* MASConstraintMaker.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MASConstraintMaker.m; sourceTree = "<group>"; };
+		18B5B7211C41672600B60EE9 /* MASLayoutConstraint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MASLayoutConstraint.h; sourceTree = "<group>"; };
+		18B5B7221C41672600B60EE9 /* MASLayoutConstraint.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MASLayoutConstraint.m; sourceTree = "<group>"; };
+		18B5B7231C41672600B60EE9 /* Masonry.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Masonry.h; sourceTree = "<group>"; };
+		18B5B7241C41672600B60EE9 /* MASUtilities.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MASUtilities.h; sourceTree = "<group>"; };
+		18B5B7251C41672600B60EE9 /* MASViewAttribute.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MASViewAttribute.h; sourceTree = "<group>"; };
+		18B5B7261C41672600B60EE9 /* MASViewAttribute.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MASViewAttribute.m; sourceTree = "<group>"; };
+		18B5B7271C41672600B60EE9 /* MASViewConstraint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MASViewConstraint.h; sourceTree = "<group>"; };
+		18B5B7281C41672600B60EE9 /* MASViewConstraint.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MASViewConstraint.m; sourceTree = "<group>"; };
+		18B5B7291C41672600B60EE9 /* NSArray+MASAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSArray+MASAdditions.h"; sourceTree = "<group>"; };
+		18B5B72A1C41672600B60EE9 /* NSArray+MASAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSArray+MASAdditions.m"; sourceTree = "<group>"; };
+		18B5B72B1C41672600B60EE9 /* NSArray+MASShorthandAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSArray+MASShorthandAdditions.h"; sourceTree = "<group>"; };
+		18B5B72C1C41672600B60EE9 /* NSLayoutConstraint+MASDebugAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSLayoutConstraint+MASDebugAdditions.h"; sourceTree = "<group>"; };
+		18B5B72D1C41672600B60EE9 /* NSLayoutConstraint+MASDebugAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSLayoutConstraint+MASDebugAdditions.m"; sourceTree = "<group>"; };
+		18B5B72E1C41672600B60EE9 /* View+MASAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "View+MASAdditions.h"; sourceTree = "<group>"; };
+		18B5B72F1C41672600B60EE9 /* View+MASAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "View+MASAdditions.m"; sourceTree = "<group>"; };
+		18B5B7301C41672600B60EE9 /* View+MASShorthandAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "View+MASShorthandAdditions.h"; sourceTree = "<group>"; };
+		18B5B7311C41672600B60EE9 /* ViewController+MASAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "ViewController+MASAdditions.h"; sourceTree = "<group>"; };
+		18B5B7321C41672600B60EE9 /* ViewController+MASAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "ViewController+MASAdditions.m"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		18B5B6C01C40F9C600B60EE9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		18B5B6D91C40F9C600B60EE9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		182690D01C416D880042A36E /* MJExtension */ = {
+			isa = PBXGroup;
+			children = (
+				182690D11C416D880042A36E /* MJExtension.h */,
+				182690D21C416D880042A36E /* MJExtensionConst.h */,
+				182690D31C416D880042A36E /* MJExtensionConst.m */,
+				182690D41C416D880042A36E /* MJFoundation.h */,
+				182690D51C416D880042A36E /* MJFoundation.m */,
+				182690D61C416D880042A36E /* MJProperty.h */,
+				182690D71C416D880042A36E /* MJProperty.m */,
+				182690D81C416D880042A36E /* MJPropertyKey.h */,
+				182690D91C416D880042A36E /* MJPropertyKey.m */,
+				182690DA1C416D880042A36E /* MJPropertyType.h */,
+				182690DB1C416D880042A36E /* MJPropertyType.m */,
+				182690DC1C416D880042A36E /* NSObject+MJClass.h */,
+				182690DD1C416D880042A36E /* NSObject+MJClass.m */,
+				182690DE1C416D880042A36E /* NSObject+MJCoding.h */,
+				182690DF1C416D880042A36E /* NSObject+MJCoding.m */,
+				182690E01C416D880042A36E /* NSObject+MJKeyValue.h */,
+				182690E11C416D880042A36E /* NSObject+MJKeyValue.m */,
+				182690E21C416D880042A36E /* NSObject+MJProperty.h */,
+				182690E31C416D880042A36E /* NSObject+MJProperty.m */,
+				182690E41C416D880042A36E /* NSString+MJExtension.h */,
+				182690E51C416D880042A36E /* NSString+MJExtension.m */,
+			);
+			path = MJExtension;
+			sourceTree = "<group>";
+		};
+		182690F61C4179A00042A36E /* Tools */ = {
+			isa = PBXGroup;
+			children = (
+				182690F31C416FA70042A36E /* WPFPlayManager.h */,
+				182690F41C416FA70042A36E /* WPFPlayManager.m */,
+				182690F71C417C580042A36E /* WPFTimeTool.h */,
+				182690F81C417C580042A36E /* WPFTimeTool.m */,
+				182690FA1C4254A90042A36E /* WPFLyricParser.h */,
+				182690FB1C4254A90042A36E /* WPFLyricParser.m */,
+				182691001C426E160042A36E /* NSDateFormatter+shared.h */,
+				182691011C426E160042A36E /* NSDateFormatter+shared.m */,
+			);
+			name = Tools;
+			sourceTree = "<group>";
+		};
+		18ACD0111C8B28F700A07172 /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+				18ACD0121C8B28F700A07172 /* buyao.wav */,
+				18ACD0131C8B28F700A07172 /* chatcome.wav */,
+				18ACD01C1C8B28F700A07172 /* test.wav */,
+				0F725C621D72AABC00732BEB /* 徐歌阳1.jpg */,
+				0F725C5A1D729BBB00732BEB /* 徐歌阳.jpg */,
+				0F725C561D729B8800732BEB /* 徐歌阳 - 一万次悲伤 (Live).lrc */,
+				0F725C571D729B8800732BEB /* 徐歌阳 - 一万次悲伤 (Live).mp3 */,
+				0F725C641D72AAE300732BEB /* 徐歌阳 - 追梦赤子心 (Live).lrc */,
+				0F725C651D72AAE300732BEB /* 徐歌阳 - 追梦赤子心 (Live).mp3 */,
+				0F725C601D72A6D200732BEB /* 曾敏杰.png */,
+				0F725C5C1D729D4B00732BEB /* 曾敏杰 - 伤痕 (Live).lrc */,
+				0F725C5D1D729D4B00732BEB /* 曾敏杰 - 伤痕 (Live).mp3 */,
+				0F725C6A1D72AC3D00732BEB /* 包师语 - 彩虹 (Live).lrc */,
+				0F725C6B1D72AC3D00732BEB /* 包师语 - 彩虹 (Live).mp3 */,
+				0F725C681D72AC2F00732BEB /* 包师语.png */,
+				0F725C6E1D72AD1E00732BEB /* 陈奕迅 - 陪你度过漫长岁月 (国语).lrc */,
+				0F725C6F1D72AD1E00732BEB /* 陈奕迅 - 陪你度过漫长岁月 (国语).mp3 */,
+				0F725C7A1D72ADFA00732BEB /* eason.jpg */,
+				0F725C701D72AD1E00732BEB /* 朴翔 - 把悲伤留给自己 (Live).lrc */,
+				0F725C711D72AD1E00732BEB /* 朴翔 - 把悲伤留给自己 (Live).mp3 */,
+				0F725C7E1D72AF7F00732BEB /* 朴翔.jpg */,
+				0F725C721D72AD1E00732BEB /* 宋冬野 - 安河桥.lrc */,
+				0F725C731D72AD1E00732BEB /* 宋冬野 - 安河桥.mp3 */,
+				0F725C7C1D72AF7600732BEB /* 安河桥北.jpg */,
+			);
+			path = Assets;
+			sourceTree = "<group>";
+		};
+		18B5B6BA1C40F9C600B60EE9 = {
+			isa = PBXGroup;
+			children = (
+				18B5B6C51C40F9C600B60EE9 /* WPFMusicPlayer */,
+				18B5B6DF1C40F9C600B60EE9 /* WPFMusicPlayerTests */,
+				18B5B6C41C40F9C600B60EE9 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		18B5B6C41C40F9C600B60EE9 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				18B5B6C31C40F9C600B60EE9 /* WPFMusicPlayer.app */,
+				18B5B6DC1C40F9C600B60EE9 /* WPFMusicPlayer.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		18B5B6C51C40F9C600B60EE9 /* WPFMusicPlayer */ = {
+			isa = PBXGroup;
+			children = (
+				182690F61C4179A00042A36E /* Tools */,
+				18B5B7421C41675000B60EE9 /* Other */,
+				18B5B7411C41674800B60EE9 /* View */,
+				18B5B7401C41674200B60EE9 /* Model */,
+				18B5B73F1C41673800B60EE9 /* Controller */,
+				18B5B73E1C41672A00B60EE9 /* lib */,
+				18B5B6CF1C40F9C600B60EE9 /* Main.storyboard */,
+				18B5B6D21C40F9C600B60EE9 /* Assets.xcassets */,
+				18B5B6D41C40F9C600B60EE9 /* LaunchScreen.storyboard */,
+				18B5B6D71C40F9C600B60EE9 /* Info.plist */,
+				18B5B6C61C40F9C600B60EE9 /* Supporting Files */,
+			);
+			path = WPFMusicPlayer;
+			sourceTree = "<group>";
+		};
+		18B5B6C61C40F9C600B60EE9 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				18ACD0111C8B28F700A07172 /* Assets */,
+				18B5B7161C410F0100B60EE9 /* mlist.plist */,
+				18B5B6C71C40F9C600B60EE9 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		18B5B6DF1C40F9C600B60EE9 /* WPFMusicPlayerTests */ = {
+			isa = PBXGroup;
+			children = (
+				18B5B6E01C40F9C600B60EE9 /* WPFMusicPlayer.m */,
+				18B5B6E21C40F9C600B60EE9 /* Info.plist */,
+			);
+			path = WPFMusicPlayerTests;
+			sourceTree = "<group>";
+		};
+		18B5B7181C41672600B60EE9 /* Masonry */ = {
+			isa = PBXGroup;
+			children = (
+				18B5B7191C41672600B60EE9 /* Info.plist */,
+				18B5B71A1C41672600B60EE9 /* MASCompositeConstraint.h */,
+				18B5B71B1C41672600B60EE9 /* MASCompositeConstraint.m */,
+				18B5B71C1C41672600B60EE9 /* MASConstraint+Private.h */,
+				18B5B71D1C41672600B60EE9 /* MASConstraint.h */,
+				18B5B71E1C41672600B60EE9 /* MASConstraint.m */,
+				18B5B71F1C41672600B60EE9 /* MASConstraintMaker.h */,
+				18B5B7201C41672600B60EE9 /* MASConstraintMaker.m */,
+				18B5B7211C41672600B60EE9 /* MASLayoutConstraint.h */,
+				18B5B7221C41672600B60EE9 /* MASLayoutConstraint.m */,
+				18B5B7231C41672600B60EE9 /* Masonry.h */,
+				18B5B7241C41672600B60EE9 /* MASUtilities.h */,
+				18B5B7251C41672600B60EE9 /* MASViewAttribute.h */,
+				18B5B7261C41672600B60EE9 /* MASViewAttribute.m */,
+				18B5B7271C41672600B60EE9 /* MASViewConstraint.h */,
+				18B5B7281C41672600B60EE9 /* MASViewConstraint.m */,
+				18B5B7291C41672600B60EE9 /* NSArray+MASAdditions.h */,
+				18B5B72A1C41672600B60EE9 /* NSArray+MASAdditions.m */,
+				18B5B72B1C41672600B60EE9 /* NSArray+MASShorthandAdditions.h */,
+				18B5B72C1C41672600B60EE9 /* NSLayoutConstraint+MASDebugAdditions.h */,
+				18B5B72D1C41672600B60EE9 /* NSLayoutConstraint+MASDebugAdditions.m */,
+				18B5B72E1C41672600B60EE9 /* View+MASAdditions.h */,
+				18B5B72F1C41672600B60EE9 /* View+MASAdditions.m */,
+				18B5B7301C41672600B60EE9 /* View+MASShorthandAdditions.h */,
+				18B5B7311C41672600B60EE9 /* ViewController+MASAdditions.h */,
+				18B5B7321C41672600B60EE9 /* ViewController+MASAdditions.m */,
+			);
+			path = Masonry;
+			sourceTree = "<group>";
+		};
+		18B5B73E1C41672A00B60EE9 /* lib */ = {
+			isa = PBXGroup;
+			children = (
+				182690D01C416D880042A36E /* MJExtension */,
+				18B5B7181C41672600B60EE9 /* Masonry */,
+			);
+			name = lib;
+			sourceTree = "<group>";
+		};
+		18B5B73F1C41673800B60EE9 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				18B5B6CC1C40F9C600B60EE9 /* ViewController.h */,
+				18B5B6CD1C40F9C600B60EE9 /* ViewController.m */,
+			);
+			name = Controller;
+			sourceTree = "<group>";
+		};
+		18B5B7401C41674200B60EE9 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				182690F01C416E130042A36E /* WPFMusic.h */,
+				182690F11C416E130042A36E /* WPFMusic.m */,
+				182690FD1C426CBA0042A36E /* WPFLyric.h */,
+				182690FE1C426CBA0042A36E /* WPFLyric.m */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		18B5B7411C41674800B60EE9 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				182691031C427CD70042A36E /* WPFColorLabel.h */,
+				182691041C427CD70042A36E /* WPFColorLabel.m */,
+				182691061C4288CF0042A36E /* WPFLyricView.h */,
+				182691071C4288CF0042A36E /* WPFLyricView.m */,
+				182691091C434F120042A36E /* WPFSliderView.h */,
+				1826910A1C434F120042A36E /* WPFSliderView.m */,
+			);
+			name = View;
+			sourceTree = "<group>";
+		};
+		18B5B7421C41675000B60EE9 /* Other */ = {
+			isa = PBXGroup;
+			children = (
+				18B5B6C91C40F9C600B60EE9 /* AppDelegate.h */,
+				18B5B6CA1C40F9C600B60EE9 /* AppDelegate.m */,
+			);
+			name = Other;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		18B5B6C21C40F9C600B60EE9 /* WPFMusicPlayer */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 18B5B6E51C40F9C600B60EE9 /* Build configuration list for PBXNativeTarget "WPFMusicPlayer" */;
+			buildPhases = (
+				18B5B6BF1C40F9C600B60EE9 /* Sources */,
+				18B5B6C01C40F9C600B60EE9 /* Frameworks */,
+				18B5B6C11C40F9C600B60EE9 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = WPFMusicPlayer;
+			productName = "04-黑马音乐播放器";
+			productReference = 18B5B6C31C40F9C600B60EE9 /* WPFMusicPlayer.app */;
+			productType = "com.apple.product-type.application";
+		};
+		18B5B6DB1C40F9C600B60EE9 /* WPFMusicPlayerTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 18B5B6E81C40F9C600B60EE9 /* Build configuration list for PBXNativeTarget "WPFMusicPlayerTests" */;
+			buildPhases = (
+				18B5B6D81C40F9C600B60EE9 /* Sources */,
+				18B5B6D91C40F9C600B60EE9 /* Frameworks */,
+				18B5B6DA1C40F9C600B60EE9 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				18B5B6DE1C40F9C600B60EE9 /* PBXTargetDependency */,
+			);
+			name = WPFMusicPlayerTests;
+			productName = "04-黑马音乐播放器Tests";
+			productReference = 18B5B6DC1C40F9C600B60EE9 /* WPFMusicPlayer.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		18B5B6BB1C40F9C600B60EE9 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0710;
+				ORGANIZATIONNAME = WPF;
+				TargetAttributes = {
+					18B5B6C21C40F9C600B60EE9 = {
+						CreatedOnToolsVersion = 7.1;
+						SystemCapabilities = {
+							com.apple.BackgroundModes = {
+								enabled = 1;
+							};
+						};
+					};
+					18B5B6DB1C40F9C600B60EE9 = {
+						CreatedOnToolsVersion = 7.1;
+						DevelopmentTeam = J36GJU89LB;
+						TestTargetID = 18B5B6C21C40F9C600B60EE9;
+					};
+				};
+			};
+			buildConfigurationList = 18B5B6BE1C40F9C600B60EE9 /* Build configuration list for PBXProject "WPFMusicPlayer" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 18B5B6BA1C40F9C600B60EE9;
+			productRefGroup = 18B5B6C41C40F9C600B60EE9 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				18B5B6C21C40F9C600B60EE9 /* WPFMusicPlayer */,
+				18B5B6DB1C40F9C600B60EE9 /* WPFMusicPlayerTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		18B5B6C11C40F9C600B60EE9 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				18B5B7331C41672600B60EE9 /* Info.plist in Resources */,
+				18B5B6D61C40F9C600B60EE9 /* LaunchScreen.storyboard in Resources */,
+				18ACD0311C8B28F700A07172 /* test.wav in Resources */,
+				0F725C761D72AD1E00732BEB /* 朴翔 - 把悲伤留给自己 (Live).lrc in Resources */,
+				18B5B7171C410F0100B60EE9 /* mlist.plist in Resources */,
+				0F725C671D72AAE300732BEB /* 徐歌阳 - 追梦赤子心 (Live).mp3 in Resources */,
+				18B5B6D31C40F9C600B60EE9 /* Assets.xcassets in Resources */,
+				18ACD0281C8B28F700A07172 /* chatcome.wav in Resources */,
+				0F725C5B1D729BBB00732BEB /* 徐歌阳.jpg in Resources */,
+				0F725C6D1D72AC3D00732BEB /* 包师语 - 彩虹 (Live).mp3 in Resources */,
+				0F725C771D72AD1E00732BEB /* 朴翔 - 把悲伤留给自己 (Live).mp3 in Resources */,
+				0F725C7B1D72ADFA00732BEB /* eason.jpg in Resources */,
+				18B5B6D11C40F9C600B60EE9 /* Main.storyboard in Resources */,
+				0F725C581D729B8800732BEB /* 徐歌阳 - 一万次悲伤 (Live).lrc in Resources */,
+				0F725C611D72A6D200732BEB /* 曾敏杰.png in Resources */,
+				0F725C5E1D729D4B00732BEB /* 曾敏杰 - 伤痕 (Live).lrc in Resources */,
+				0F725C691D72AC2F00732BEB /* 包师语.png in Resources */,
+				0F725C591D729B8800732BEB /* 徐歌阳 - 一万次悲伤 (Live).mp3 in Resources */,
+				0F725C751D72AD1E00732BEB /* 陈奕迅 - 陪你度过漫长岁月 (国语).mp3 in Resources */,
+				0F725C741D72AD1E00732BEB /* 陈奕迅 - 陪你度过漫长岁月 (国语).lrc in Resources */,
+				0F725C5F1D729D4B00732BEB /* 曾敏杰 - 伤痕 (Live).mp3 in Resources */,
+				0F725C781D72AD1E00732BEB /* 宋冬野 - 安河桥.lrc in Resources */,
+				0F725C661D72AAE300732BEB /* 徐歌阳 - 追梦赤子心 (Live).lrc in Resources */,
+				0F725C791D72AD1E00732BEB /* 宋冬野 - 安河桥.mp3 in Resources */,
+				0F725C7D1D72AF7600732BEB /* 安河桥北.jpg in Resources */,
+				18ACD0271C8B28F700A07172 /* buyao.wav in Resources */,
+				0F725C7F1D72AF7F00732BEB /* 朴翔.jpg in Resources */,
+				0F725C631D72AABC00732BEB /* 徐歌阳1.jpg in Resources */,
+				0F725C6C1D72AC3D00732BEB /* 包师语 - 彩虹 (Live).lrc in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		18B5B6DA1C40F9C600B60EE9 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		18B5B6BF1C40F9C600B60EE9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				182690FF1C426CBA0042A36E /* WPFLyric.m in Sources */,
+				18B5B73B1C41672600B60EE9 /* NSLayoutConstraint+MASDebugAdditions.m in Sources */,
+				182691081C4288CF0042A36E /* WPFLyricView.m in Sources */,
+				18B5B7391C41672600B60EE9 /* MASViewConstraint.m in Sources */,
+				182691021C426E160042A36E /* NSDateFormatter+shared.m in Sources */,
+				182690F21C416E130042A36E /* WPFMusic.m in Sources */,
+				182690E61C416D880042A36E /* MJExtensionConst.m in Sources */,
+				182690E81C416D880042A36E /* MJProperty.m in Sources */,
+				182690F91C417C580042A36E /* WPFTimeTool.m in Sources */,
+				182690EC1C416D880042A36E /* NSObject+MJCoding.m in Sources */,
+				182690E71C416D880042A36E /* MJFoundation.m in Sources */,
+				18B5B7341C41672600B60EE9 /* MASCompositeConstraint.m in Sources */,
+				182690E91C416D880042A36E /* MJPropertyKey.m in Sources */,
+				18B5B73A1C41672600B60EE9 /* NSArray+MASAdditions.m in Sources */,
+				18B5B6CE1C40F9C600B60EE9 /* ViewController.m in Sources */,
+				182690ED1C416D880042A36E /* NSObject+MJKeyValue.m in Sources */,
+				182690EA1C416D880042A36E /* MJPropertyType.m in Sources */,
+				18B5B6CB1C40F9C600B60EE9 /* AppDelegate.m in Sources */,
+				182690EE1C416D880042A36E /* NSObject+MJProperty.m in Sources */,
+				18B5B7371C41672600B60EE9 /* MASLayoutConstraint.m in Sources */,
+				18B5B6C81C40F9C600B60EE9 /* main.m in Sources */,
+				18B5B73D1C41672600B60EE9 /* ViewController+MASAdditions.m in Sources */,
+				182691051C427CD70042A36E /* WPFColorLabel.m in Sources */,
+				182690EB1C416D880042A36E /* NSObject+MJClass.m in Sources */,
+				182690FC1C4254A90042A36E /* WPFLyricParser.m in Sources */,
+				18B5B73C1C41672600B60EE9 /* View+MASAdditions.m in Sources */,
+				182690EF1C416D880042A36E /* NSString+MJExtension.m in Sources */,
+				18B5B7381C41672600B60EE9 /* MASViewAttribute.m in Sources */,
+				1826910B1C434F120042A36E /* WPFSliderView.m in Sources */,
+				18B5B7351C41672600B60EE9 /* MASConstraint.m in Sources */,
+				18B5B7361C41672600B60EE9 /* MASConstraintMaker.m in Sources */,
+				182690F51C416FA70042A36E /* WPFPlayManager.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		18B5B6D81C40F9C600B60EE9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				18B5B6E11C40F9C600B60EE9 /* WPFMusicPlayer.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		18B5B6DE1C40F9C600B60EE9 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 18B5B6C21C40F9C600B60EE9 /* WPFMusicPlayer */;
+			targetProxy = 18B5B6DD1C40F9C600B60EE9 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		18B5B6CF1C40F9C600B60EE9 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				18B5B6D01C40F9C600B60EE9 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		18B5B6D41C40F9C600B60EE9 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				18B5B6D51C40F9C600B60EE9 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		18B5B6E31C40F9C600B60EE9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		18B5B6E41C40F9C600B60EE9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		18B5B6E61C40F9C600B60EE9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "Brand Assets";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				INFOPLIST_FILE = WPFMusicPlayer/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.apple.wpftest;
+				PRODUCT_NAME = WPFMusicPlayer;
+			};
+			name = Debug;
+		};
+		18B5B6E71C40F9C600B60EE9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "Brand Assets";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				INFOPLIST_FILE = WPFMusicPlayer/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.apple.wpftest;
+				PRODUCT_NAME = WPFMusicPlayer;
+			};
+			name = Release;
+		};
+		18B5B6E91C40F9C600B60EE9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = WPFMusicPlayerTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.apple.wpftest;
+				PRODUCT_NAME = WPFMusicPlayer;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/WPFMusicPlayer.app/WPFMusicPlayer";
+			};
+			name = Debug;
+		};
+		18B5B6EA1C40F9C600B60EE9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = WPFMusicPlayerTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.apple.wpftest;
+				PRODUCT_NAME = WPFMusicPlayer;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/WPFMusicPlayer.app/WPFMusicPlayer";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		18B5B6BE1C40F9C600B60EE9 /* Build configuration list for PBXProject "WPFMusicPlayer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				18B5B6E31C40F9C600B60EE9 /* Debug */,
+				18B5B6E41C40F9C600B60EE9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		18B5B6E51C40F9C600B60EE9 /* Build configuration list for PBXNativeTarget "WPFMusicPlayer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				18B5B6E61C40F9C600B60EE9 /* Debug */,
+				18B5B6E71C40F9C600B60EE9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		18B5B6E81C40F9C600B60EE9 /* Build configuration list for PBXNativeTarget "WPFMusicPlayerTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				18B5B6E91C40F9C600B60EE9 /* Debug */,
+				18B5B6EA1C40F9C600B60EE9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 18B5B6BB1C40F9C600B60EE9 /* Project object */;
+}
